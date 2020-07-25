@@ -13,7 +13,7 @@ I am Filipe, a brazilian mobile student/developer
 - Using
 
     <a href="https://developer.apple.com/swift/">
-    <img src="https://lh3.googleusercontent.com/proxy/ypjaZOQQAbmq2LpriKp6_Kw2NRFWZLED4vOcXXd05ZT8N5vObRaqlNZwq_nuK__RnlNStg6rJ-MeLp-pyyi-6F8jLjCMOA9MEqwRa7gQ7_nRVVCaFgs" alt="Swift" style="margin-right:15px;" title="Swift" width="32" height="32"></a>
+    <img src="https://lh3.googleusercontent.com/proxy/8d_KCnU5xUeBdvQwsxKbYHmACKyaQWsEiXCKRO12aQTmjlgwNcz-Eeo6Gnl4chMv8-qw5y8liEo_DZrmxcxs-9sCc-QAELCpNgjzsYVWOjBx-9KRSU8" alt="Swift" style="margin-right:15px;" title="Swift" width="32" height="32"></a>
     <a href="https://kotlinlang.org/">
     <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" style="margin-right:15px;" title="Kotlin" width="32" height="32"></a>
     <a href="https://dart.dev/">
@@ -66,5 +66,5 @@ I am Filipe, a brazilian mobile student/developer
 You can find me and get in touch with me on these accounts!
 
 <a href="https://www.instagram.com/filipe_rodrigues_/"><img src="https://pluspng.com/img-png/instagram-png-instagram-png-icon-1024.png" alt="Instagram" style="margin-right:15px;" title="Instagram" width="32" height="32"></a>
-<a href="https://www.linkedin.com/in/filipe-ro/"><img src="https://lh3.googleusercontent.com/proxy/LNexqnlp5HMp8tVWEDsQvJGc9XQcGAKrMTgt87zTETGrkvONkla5477anIZj6jyGq5oGwHezZPmcASszp7Kc1W2sRSxCH5M6YhjoBW6d39Xcupe0694I5WztDNnl2T61czM" alt="LinkedIn" style="" title="LinkedIn" width="32" height="32"></a>
+<a href="https://www.linkedin.com/in/filipe-ro/"><img src="https://lh3.googleusercontent.com/proxy/R0L4LwCg0ufhIPp34KVfiqKv27y-FuQlojX_Xpvq550YfETfaBgodzM8HptscJWjX6830bApKs-ikZFSgiOIn_J-J-4Zs-cOWKirwXucWna0nsb2IwM" alt="LinkedIn" style="" title="LinkedIn" width="32" height="32"></a>
 <a href="mailto:filipe.ro.ol@gmail.com"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="Gmail" style="" title="Gmail" width="32" height="32"></a>

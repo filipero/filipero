@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Filipe, a brazilian mobile student/developer
+I am Filipe, a brazilian mobile developer
 
 
 ### Current Projects 📱
@@ -42,7 +42,6 @@ I am Filipe, a brazilian mobile student/developer
 
 
 
-
 - Know
 
     <a href="https://flutter.dev/">
@@ -64,7 +63,7 @@ I am Filipe, a brazilian mobile student/developer
 
 ### Other Accounts 📫
 
-You can find me and get in touch with me on these accounts!
+You can get in touch with me on these accounts!
 
 <a href="https://www.instagram.com/filipe_rodrigues_/"><img src="https://pluspng.com/img-png/instagram-png-instagram-png-icon-1024.png" alt="Instagram" style="margin-right:15px;" title="Instagram" width="32" height="32"></a>
 <a href="https://www.linkedin.com/in/filipe-ro/"><img src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-linkedin-icon-flat-icon-linkedin-png-social-icon-png-11.png" alt="LinkedIn" style="" title="LinkedIn" width="32" height="32"></a>

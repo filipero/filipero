@@ -13,16 +13,16 @@ I am Filipe, a brazilian mobile student/developer
 - Using
 
     <a href="https://developer.apple.com/swift/">
-    <img src="https://lh3.googleusercontent.com/proxy/8d_KCnU5xUeBdvQwsxKbYHmACKyaQWsEiXCKRO12aQTmjlgwNcz-Eeo6Gnl4chMv8-qw5y8liEo_DZrmxcxs-9sCc-QAELCpNgjzsYVWOjBx-9KRSU8" alt="Swift" style="margin-right:15px;" title="Swift" width="32" height="32"></a>
-    <a href="https://kotlinlang.org/">
-    <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" style="margin-right:15px;" title="Kotlin" width="32" height="32"></a>
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png" alt="Swift" style="margin-right:15px;" title="Swift" width="32" height="32"></a>
+    <a href="https://www.java.com/">
+    <img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="Java" style="margin-right:15px;" title="Java" width="32" height="32"></a>
     <a href="https://dart.dev/">
     <img src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png" alt="Dart" style="" title="Dart" width="32" height="32"></a>
 
 - Know
 
-    <a href="https://www.java.com/">
-    <img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="Java" style="margin-right:15px;" title="Java" width="32" height="32"></a>
+    <a href="https://kotlinlang.org/">
+    <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" style="margin-right:15px;" title="Kotlin" width="32" height="32"></a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
     <img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" alt="C#" style="margin-right:15px;" title="C#" width="32" height="32"></a>
     <a href="http://www.cplusplus.com/">

@@ -67,5 +67,5 @@ I am Filipe, a brazilian mobile student/developer
 You can find me and get in touch with me on these accounts!
 
 <a href="https://www.instagram.com/filipe_rodrigues_/"><img src="https://pluspng.com/img-png/instagram-png-instagram-png-icon-1024.png" alt="Instagram" style="margin-right:15px;" title="Instagram" width="32" height="32"></a>
-<a href="https://www.linkedin.com/in/filipe-ro/"><img src="https://assets.stickpng.com/images/58e91afdeb97430e81906504.png" alt="LinkedIn" style="" title="LinkedIn" width="32" height="32"></a>
+<a href="https://www.linkedin.com/in/filipe-ro/"><img src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-linkedin-icon-flat-icon-linkedin-png-social-icon-png-11.png" alt="LinkedIn" style="" title="LinkedIn" width="32" height="32"></a>
 <a href="mailto:filipe.ro.ol@gmail.com"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="Gmail" style="" title="Gmail" width="32" height="32"></a>

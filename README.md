@@ -35,29 +35,30 @@ I am Filipe, a brazilian mobile student/developer
 
 - Using
 
-    <a href="https://www.postman.com/">
-    <img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/logo-mark.png" alt="Postman" style="margin-right:15px;" title="Postman" width="32" height="32"></a>
-    <a href="https://code.visualstudio.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" style="margin-right:15px;" title="VS Code" width="32" height="32"></a>
     <a href="https://developer.apple.com/xcode/">
     <img src="https://www.showmetech.com.br/wp-content/uploads//2013/01/xcode-icon.png" alt="XCode" style="margin-right:15px;" title="XCode" width="32" height="32"></a>
-    <a href="https://firebase.google.com/">
-    <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="Firebase" style="margin-right:15px;" title="Firebase" width="32" height="32"></a>
-    <a href="https://flutter.dev/">
-    <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/03/app_icon_512.png" alt="Flutter" style="" title="Flutter" width="32" height="32"></a>
+    <a href="https://developer.android.com/studio">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1200px-Breezeicons-apps-48-android-studio.svg.png" alt="Android Studio" style="" title="Android Studio" width="32" height="32"></a>
+
 
 
 
 - Know
 
+    <a href="https://flutter.dev/">
+    <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/03/app_icon_512.png" alt="Flutter" style="" title="Flutter" width="32" height="32"></a>
+    <a href="https://firebase.google.com/">
+    <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="Firebase" style="margin-right:15px;" title="Firebase" width="32" height="32"></a>
+    <a href="https://code.visualstudio.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" style="margin-right:15px;" title="VS Code" width="32" height="32"></a>
+    <a href="https://www.postman.com/">
+    <img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/logo-mark.png" alt="Postman" style="margin-right:15px;" title="Postman" width="32" height="32"></a>
     <a href="https://www.tensorflow.org/">
     <img src="https://media-exp1.licdn.com/dms/image/C560BAQFHT0X1VDWbrw/company-logo_200_200/0?e=2159024400&v=beta&t=29_zq8h6oz_4JmQt6OWDF67NhFCcBDLFhGIbo3nDhVo" alt="Tensor Flow" style="margin-right:15px;" title="Tensor Flow" width="32" height="32"></a>
     <a href="https://unity.com/">
     <img src="https://icon-library.com/images/unity-icon/unity-icon-1.jpg" alt="Unity" style="margin-right:15px;" title="Unity" width="32" height="32"></a>
     <a href="https://www.jetbrains.com/idea/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1200px-IntelliJ_IDEA_Logo.svg.png" alt="IntelliJ IDEA" style="margin-right:15px;" title="IntelliJ IDEA" width="32" height="32"></a>
-    <a href="https://developer.android.com/studio">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1200px-Breezeicons-apps-48-android-studio.svg.png" alt="Android Studio" style="" title="Android Studio" width="32" height="32"></a>
 
 
 
@@ -66,5 +67,5 @@ I am Filipe, a brazilian mobile student/developer
 You can find me and get in touch with me on these accounts!
 
 <a href="https://www.instagram.com/filipe_rodrigues_/"><img src="https://pluspng.com/img-png/instagram-png-instagram-png-icon-1024.png" alt="Instagram" style="margin-right:15px;" title="Instagram" width="32" height="32"></a>
-<a href="https://www.linkedin.com/in/filipe-ro/"><img src="https://lh3.googleusercontent.com/proxy/R0L4LwCg0ufhIPp34KVfiqKv27y-FuQlojX_Xpvq550YfETfaBgodzM8HptscJWjX6830bApKs-ikZFSgiOIn_J-J-4Zs-cOWKirwXucWna0nsb2IwM" alt="LinkedIn" style="" title="LinkedIn" width="32" height="32"></a>
+<a href="https://www.linkedin.com/in/filipe-ro/"><img src="https://assets.stickpng.com/images/58e91afdeb97430e81906504.png" alt="LinkedIn" style="" title="LinkedIn" width="32" height="32"></a>
 <a href="mailto:filipe.ro.ol@gmail.com"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="Gmail" style="" title="Gmail" width="32" height="32"></a>

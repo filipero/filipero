@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Filipe, a iOS developer who loves games.
+I am Filipe, an iOS developer who loves games.
 
 
 ### Recent Projects 📱
